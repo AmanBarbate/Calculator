@@ -38,6 +38,9 @@ README.md
 ```
 
 ## How to Run
+## Project Preview
+
+![Calculator Output](images/calculator-output.png)
 
 1. Clone the repository
 
