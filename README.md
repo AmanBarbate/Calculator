@@ -8,6 +8,9 @@ A simple **console-based Calculator** built using Java. This project performs ba
 * ➖ Subtraction
 * ✖️ Multiplication
 * ➗ Division
+* Even Odd check
+* Currency converter IND-USD
+* MIN/MAX number checker
 * 🧮 Remainder (Modulus)
 * 📋 Menu-Driven Program
 * 🔁 do-while Loop
